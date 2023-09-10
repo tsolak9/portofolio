@@ -7,7 +7,7 @@ function App() {
     <>
     <Header />
     <main>
-      <div className="container mx-auto">
+      <div className="container mx-auto px-4">
       <h1 className="text-3xl font-bold underline">
       Hello world!
     </h1>
